@@ -1,0 +1,7 @@
+com\inetBanking\testCases\TC_002_LoginDDT.class
+com\inetBanking\utilities\ReadConfig.class
+com\inetBanking\testCases\ClassDataProvider.class
+com\inetBanking\testCases\TC_001_LoginTest.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testCases\BaseClass.class
+com\inetBanking\utilities\ListenerTest.class
