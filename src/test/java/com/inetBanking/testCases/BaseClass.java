@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.NoAlertPresentException;
@@ -64,6 +65,10 @@ public class BaseClass {
 		File DestFile = new File(filePath + methodName + ".png");
 		FileUtils.copyFile(SrcFile, DestFile);
 		System.out.println("Screenshot was taken");
+	}
+	public String getRandomAlphabeticString() {
+		String generatedString = RandomStringUtils.randomAlphabetic(10);
+		return generatedString;
 	}
 	@AfterClass
 	public void quitBrowser() {

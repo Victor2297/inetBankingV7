@@ -5,3 +5,5 @@ com\inetBanking\testCases\TC_001_LoginTest.class
 com\inetBanking\pageObjects\LoginPage.class
 com\inetBanking\testCases\BaseClass.class
 com\inetBanking\utilities\ListenerTest.class
+com\inetBanking\pageObjects\NewCustomer.class
+com\inetBanking\testCases\TC_003_NewCustomerTest.class

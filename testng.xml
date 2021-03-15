@@ -7,8 +7,9 @@
   <test thread-count="5" name="ChromeTest">
       <parameter name = "browser" value = "chrome"/>
     <classes>
-      <class name="com.inetBanking.testCases.TC_001_LoginTest"/>
+      <!--<class name="com.inetBanking.testCases.TC_001_LoginTest"/>-->
       <!--<class name="com.inetBanking.testCases.TC_002_LoginDDT"/>-->
+      <class name="com.inetBanking.testCases.TC_003_NewCustomerTest"/>
     </classes>
   </test>
 </suite>

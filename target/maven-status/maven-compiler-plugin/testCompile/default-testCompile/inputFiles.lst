@@ -1,7 +1,9 @@
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\testCases\TC_001_LoginTest.java
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\testCases\ClassDataProvider.java
+C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\pageObjects\NewCustomer.java
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\utilities\ReadConfig.java
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\testCases\BaseClass.java
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\testCases\TC_002_LoginDDT.java
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\pageObjects\LoginPage.java
 C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\utilities\ListenerTest.java
+C:\Users\Victor\eclipse-workspace\inetBankingV7\src\test\java\com\inetBanking\testCases\TC_003_NewCustomerTest.java
