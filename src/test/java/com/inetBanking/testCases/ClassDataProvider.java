@@ -14,7 +14,7 @@ public class ClassDataProvider {
 	public static XSSFWorkbook workbook;
     public static XSSFSheet worksheet;
     public static DataFormatter formatter= new DataFormatter();
-    public static String file_location = "C:\\Users\\Victor\\eclipse-workspace\\inetBankingV7\\src\\test\\java\\com\\inetBanking\\testData\\VData.xlsx";
+    public static String file_location = 
     static String SheetName= "Sheet1";
     public  String Res;
     public int DataSet=-1;
